@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=melsardes" alt="melsardes" /></a> </p>
 
-- 🔭 I’m currently working on **programming quiz game**
+- 🔭 I’m currently working on **Codee**, a **programming quiz game**
 
 - 🌱 I’m currently learning **Jetpack compose**
 
