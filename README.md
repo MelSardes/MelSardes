@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Codee**, a **programming quiz game**
 
-- 🌱 I’m currently learning **Jetpack compose**
+- 🌱 I’m currently learning **Jetpack compose and Ktor**
 
 - 💬 Ask me about **Jetpack compose**
 
