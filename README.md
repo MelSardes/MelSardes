@@ -7,17 +7,15 @@
 
 - 🔭 I’m currently working on **Codee**, a **programming quiz game**
 
-- 🌱 I’m currently learning **Jetpack compose and Ktor**
+- 🌱 I’m currently learning **Data Science and UI Design**
 
-- 💬 Ask me about **Jetpack compose**
+- 💬 Ask me about **Android and UI Design**
 
 - 📫 How to reach me **melsardes2042@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/melsardes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="melsardes" height="30" width="40" /></a>
 <a href="https://dev.to/melsardes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="melsardes" height="30" width="40" /></a>
-<a href="https://twitter.com/melsardes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="melsardes" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/loickmakosso" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="loickmakosso" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/18684655" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18684655" height="30" width="40" /></a>
 </p>
