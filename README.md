@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Loïck Makosso aka Mel Sardes</h1>
 <h3 align="center">A passionate Dev learner and Tech lover from Gabon</h3>
 
-<p> <img src="sardes profile banner.png" alt="sardes profile banner" /> </p>
+<p> <img width="100%" src="sardes profile banner.png" alt="sardes profile banner" /> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=melsardes&label=Profile%20views&color=0e75b6&style=flat" alt="melsardes" /> </p>
 
