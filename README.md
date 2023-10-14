@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on **Codee**, a **programming quiz game**
 
-- 🌱 I’m currently learning **Data Science and UI Design**
+- 🌱 I’m currently learning **NodeJS and UI Design**
 
 - 💬 Ask me about **Android and UI Design**
 
-- 📫 How to reach me **melsardes2042@hotmail.com**
+- 📫 How to reach me **melsardes2042@hotmail.com** or **loickmakosso@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
