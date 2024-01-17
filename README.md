@@ -4,6 +4,7 @@
 <p> <img width="100%" src="sardes profile banner.png" alt="sardes profile banner" /> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=melsardes&label=Profile%20views&color=0e75b6&style=flat" alt="melsardes" /> </p>
+<p align="left"> <img src="https://wakatime.com/badge/user/65b36704-9e7f-4153-bdd9-b303a461e0a0.svg" alt="melsardes" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=melsardes" alt="melsardes" /></a> </p>
 
