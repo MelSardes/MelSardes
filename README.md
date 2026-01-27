@@ -96,7 +96,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MelSardes&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=onedark&hide_border=false" height="150" alt="languages graph"  />
   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-nu-green.vercel.app?user=Melsardes&theme=gruvbox&date_format=j%20M%5B%20Y%5D&card_height=150" alt="GitHub Streak" /></a>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MelSardes&theme=one-dark&area=true" height="150" alt="activity-graph graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=MelSardes&theme=onedark" height="150" alt="trophy graph"  />
+  <img src="https://github-profile-trophy.vercel.app/?username=MelSardes&theme=gruvbox" height="150" alt="trophy graph"  />
+  
 </div>
 
 ###
