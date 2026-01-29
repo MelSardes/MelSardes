@@ -6,9 +6,8 @@
 
 Kotlin developer from Gabon building Android apps and Spring Boot APIs, wrangling CI/CD, and refactoring toward clean architecture because leaving it as-is would be too easy. I keep it grounded with design patterns, DSA, and a healthy dose of sarcasm to survive flaky builds, moody networks, and servers that only crash when I am "just checking one thing." Still learning, still shipping, and still pretending the hotfix was part of the plan.
 
----
 
-### I can do things with this stuff
+## Part of my toolkit
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
@@ -49,28 +48,28 @@ Kotlin developer from Gabon building Android apps and Spring Boot APIs, wranglin
 
 <img src="https://avatars.githubusercontent.com/u/100629918?s=400&u=c712d77ceea8524d7a9e8ee894e76427cf12fbda&v=4" width="100" />
 
-### If you wanna contact me
+## If you wanna get in touch
 
 [<img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" alt="linkedin logo" />](https://www.linkedin.com/in/loick-makosso/)
 [<img src="https://img.shields.io/static/v1?message=X&logo=twitter&label=&color=010&logoColor=white&labelColor=&style=for-the-badge" alt="twitter logo" />](https://x.com/MelSardes)
 
 ###
 
----
-
-### Some Stats
+## Some Stats
 <img src="https://github-readme-stats.vercel.app/api?username=MelSardes&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=onedark&locale=en&hide_border=false" height="150" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MelSardes&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=onedark&hide_border=false" height="150" />
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=MelSardes&theme=one-dark&area=true" height="150" />
 <img src="https://github-readme-streak-stats-nu-green.vercel.app?user=MelSardes&theme=gruvbox&date_format=j%20M%5B%20Y%5D&card_height=120" alt="GitHub Streak" height="150" />
 <!-- <img src="https://github-profile-trophy.vercel.app/?username=MelSardes&theme=onedark" height="150" /> -->
 
+**How fast do you type ?**
 
----
+![](https://monkeytype-github-profile.deno.dev/profile/MelSardes)
+
 
 <!-- <img src="https://raw.githubusercontent.com/MelSardes/output/snake.svg" alt="Snake animation" /> -->
 
-### I love my music
+## To dive in the zone
 
 [<img src="https://spotify-recently-played-readme.vercel.app/api?user=31loxatuusge7cp3xou4dyau5g3i&count=10" alt="Spotify recently played" />](https://open.spotify.com/user/31loxatuusge7cp3xou4dyau5g3i)
 
