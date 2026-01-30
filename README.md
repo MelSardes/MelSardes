@@ -7,7 +7,7 @@
 Kotlin developer from Gabon building Android apps and Spring Boot APIs, wrangling CI/CD, and refactoring toward clean architecture because leaving it as-is would be too easy. I keep it grounded with design patterns, DSA, and a healthy dose of sarcasm to survive flaky builds, moody networks, and servers that only crash when I am "just checking one thing." Still learning, still shipping, and still pretending the hotfix was part of the plan.
 
 
-## Part of my toolkit
+## I worked with ...
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
