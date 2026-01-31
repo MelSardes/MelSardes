@@ -7,7 +7,7 @@
 Kotlin developer from Gabon building Android apps and Spring Boot APIs, wrangling CI/CD, and refactoring toward clean architecture because leaving it as-is would be too easy. I keep it grounded with design patterns, DSA, and a healthy dose of sarcasm to survive flaky builds, moody networks, and servers that only crash when I am "just checking one thing." Still learning, still shipping, and still pretending the hotfix was part of the plan.
 
 
-## I worked with ...
+## I can work with these (but I'm not limited to them)
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
@@ -52,7 +52,6 @@ Kotlin developer from Gabon building Android apps and Spring Boot APIs, wranglin
 <img src="https://avatars.githubusercontent.com/u/100629918?s=400&u=c712d77ceea8524d7a9e8ee894e76427cf12fbda&v=4" width="100" />
 
 [<img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" alt="linkedin logo" />](https://www.linkedin.com/in/loick-makosso/)
-[<img src="https://img.shields.io/static/v1?message=X&logo=twitter&label=&color=010&logoColor=white&labelColor=&style=for-the-badge" alt="twitter logo" />](https://x.com/MelSardes)
 
 ###
 
@@ -70,7 +69,7 @@ Kotlin developer from Gabon building Android apps and Spring Boot APIs, wranglin
 
 <!-- <img src="https://raw.githubusercontent.com/MelSardes/output/snake.svg" alt="Snake animation" /> -->
 
-## To dive in the zone
+## To dive into ***THE ZONE***
 
 [<img src="https://spotify-recently-played-readme.vercel.app/api?user=31loxatuusge7cp3xou4dyau5g3i&count=10" alt="Spotify recently played" />](https://open.spotify.com/user/31loxatuusge7cp3xou4dyau5g3i)
 
