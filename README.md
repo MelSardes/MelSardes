@@ -69,10 +69,10 @@ Kotlin developer from Gabon building Android apps and Spring Boot APIs, wranglin
 
 <!-- <img src="https://raw.githubusercontent.com/MelSardes/output/snake.svg" alt="Snake animation" /> -->
 
-## To dive into ***THE ZONE***
+<!-- ## To dive into ***THE ZONE***
 
 [<img src="https://spotify-recently-played-readme.vercel.app/api?user=31loxatuusge7cp3xou4dyau5g3i&count=10" alt="Spotify recently played" />](https://open.spotify.com/user/31loxatuusge7cp3xou4dyau5g3i)
 
 ###
-
+-->
 </div>
