@@ -44,16 +44,7 @@ Kotlin developer from Gabon building Android apps and Spring Boot APIs, wranglin
 <img src="https://skillicons.dev/icons?i=ktor" height="40" alt="ktor logo" />
 <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo" />
 
-###
 
-
-## If you wanna get in touch
-
-<img src="https://avatars.githubusercontent.com/u/100629918?s=400&u=c712d77ceea8524d7a9e8ee894e76427cf12fbda&v=4" width="100" />
-
-[<img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" alt="linkedin logo" />](https://www.linkedin.com/in/loick-makosso/)
-
-###
 
 ## Some Stats
 <img src="https://github-readme-stats.vercel.app/api?username=MelSardes&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=onedark&locale=en&hide_border=false" height="150" />
